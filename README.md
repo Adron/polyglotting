@@ -1,4 +1,4 @@
-# polyglotting in IRL in human...  :o
+# Polyglotting in IRL in human...  :o
 
 ##вивчення цих мов
 * український
