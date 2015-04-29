@@ -16,10 +16,13 @@
 * danska
 
 ### Svenska Språk
+* [tangentbord](svenska/tangentbord.md)
 
 ### Dansk Sprog
+* [tastatur](dansk/tastatur.md)
 
 ### українська мова
+* [клавіатура](yкраїнський/клавіатура.md)
 
 
 
